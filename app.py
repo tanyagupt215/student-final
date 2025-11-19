@@ -23,9 +23,9 @@ with st.sidebar:
     st.title("🧠 Student Depression Predictor")
     st.markdown("Predict the likelihood of depression in students.")
     st.markdown("---")
-    st.markdown("👨‍💻 Developed by: **Brajesh Ahirwar**")
-    st.markdown("🔗 GitHub: [Brajesh Ahirwar](https://github.com/brajesh2306)")
-    st.markdown("🔗 LinkedIn: [Profile](www.linkedin.com/in/brajesh-ahirwar-6269b728b)")
+    st.markdown("👨‍💻 Developed by: **Tanya Gupta**")
+    st.markdown("🔗 GitHub: [Tanya Gupta](https://github.com/tanyagupt215)")
+    st.markdown("🔗 LinkedIn: [Profile](https://www.linkedin.com/in/tanya-gupta-18805032b)")
     st.markdown("---")
     st.markdown("✨ **Have fun exploring AI!**")
 
